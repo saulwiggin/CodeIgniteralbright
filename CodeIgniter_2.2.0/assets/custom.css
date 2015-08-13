@@ -1,0 +1,14 @@
+body {
+	background-color: #b0c4de;
+	}
+	
+#table {
+background-color: #FAFFEC
+}
+
+#top {
+	position: absolute;
+	left: 30px;
+	border-width: medium;
+	border: 5px solid red;
+	}
